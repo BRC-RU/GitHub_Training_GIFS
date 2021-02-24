@@ -3,9 +3,5 @@ A collection of GIFs that show how the [GitHub training](https://rockefelleruniv
 
 ## The GIFs
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" height="100" />
-
-<img src="https://media.giphy.com/media/26DN3uC8mHAcizbEs/giphy.gif" width="100" height="100" />
-
-<img src="https://media.giphy.com/media/PmRgaD2xj0KH2pPrVF/giphy.gif" width="100" height="100" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" height="100" /> <img src="https://media.giphy.com/media/26DN3uC8mHAcizbEs/giphy.gif" width="100" height="100" /> <img src="https://media.giphy.com/media/PmRgaD2xj0KH2pPrVF/giphy.gif" width="100" height="100" />
 

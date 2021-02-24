@@ -11,7 +11,7 @@ To add to the collection:
 8) Wait for approval of the pull request. 
 
 ## The GIFs
-<img src="https://media.giphy.com/media/GIEXgLDfghUSQ/giphy.gif" width="300" /><img src="https://media.giphy.com/media/w8qewcZwdyE4xCQFL5/giphy.gif" width="300"/>
-<img src="https://media.giphy.com/media/yQF1MwG7u9OvgVAjmr/giphy.gif" width="300"/> 
-<img src="https://media.giphy.com/media/ChmEWOL7Vaz5u/giphy.gif" width="300" /> 
-<img src="https://media.giphy.com/media/3orifhln1wZJ7lTbyw/giphy.gif" width="300"/> 
+<img src="https://media.giphy.com/media/yQF1MwG7u9OvgVAjmr/giphy.gif" width="250"/> <img src="https://media.giphy.com/media/w8qewcZwdyE4xCQFL5/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/GIEXgLDfghUSQ/giphy.gif" width="250" />
+<img src="https://media.giphy.com/media/ChmEWOL7Vaz5u/giphy.gif" width="250" /> 
+<img src="https://media.giphy.com/media/3orifhln1wZJ7lTbyw/giphy.gif" width="250"/> 

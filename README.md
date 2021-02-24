@@ -8,3 +8,6 @@ A collection of GIFs that show how the [GitHub training](https://rockefelleruniv
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" height="100" /> <img src="https://media.giphy.com/media/26DN3uC8mHAcizbEs/giphy.gif" /> 
 
 ![test](https://media.giphy.com/media/vFKqnCdLPNOKc/source.gif)
+
+
+![test2](https://media.giphy.com/media/26DN3uC8mHAcizbEs/source.gif)

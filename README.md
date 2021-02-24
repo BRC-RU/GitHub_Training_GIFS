@@ -5,7 +5,12 @@ A collection of GIFs that show how the [GitHub training](https://rockefelleruniv
 <iframe src="https://giphy.com/embed/vFKqnCdLPNOKc" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-lol-vFKqnCdLPNOKc">via GIPHY</a></p>
 <img src="https://media.giphy.com/media/PmRgaD2xj0KH2pPrVF/giphy.gif" width="100" height="100" />
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" height="100" /> <img src="https://media.giphy.com/media/26DN3uC8mHAcizbEs/giphy.gif" /> 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" height="100" /> 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" height="100" /> 
+<img src="https://gph.is/2kHTcYy" width="100" height="100" /> 
+<img src="https://media.giphy.com/media/26DN3uC8mHAcizbEs/giphy.gif" /> 
+<img src="https://media.giphy.com/media/w8qewcZwdyE4xCQFL5/giphy.gif" width="100" height="100" /> 
+
 
 ![test](https://media.giphy.com/media/vFKqnCdLPNOKc/source.gif)
 

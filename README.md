@@ -3,4 +3,4 @@ A collection of GIFs that show how the [GitHub training](https://rockefelleruniv
 
 ## The GIFs
 <img src="https://media.giphy.com/media/w8qewcZwdyE4xCQFL5/giphy.gif" width="300" height="300" />
-<img src="https://media.giphy.com/media/26DN3uC8mHAcizbEs/giphy.gif" width="300" height="300" /> 
+<img src="https://media.giphy.com/media/3KQ4VNwCrOThC/giphy.gif" width="300" height="300" /> 

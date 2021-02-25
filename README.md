@@ -4,7 +4,7 @@ A collection of GIFs that show how the [GitHub training](https://rockefelleruniv
 To add to the collection:
 1) Take a fork
 3) Check the issues for GIF requests. Comment on the issues if you agree/disagree. Create a new issue if our collection is missing something. 
-4) Find a GIF that describes how you felt about the course ([GIPHY](https://giphy.com/) has lots of options)
+4) Find a GIF that describes how you felt about the course ([GIPHY](https://giphy.com/) has lots of options).
 5) Add your GIF to the README, by editing it. Add a new line similar to this \<img src="https://my_gif_url_here.gif" width="300"/>. Just update the link to point to your chosen GIF.
 6) Commit changes
 7) Create a pull request and explain why you think it is a goof GIF. 

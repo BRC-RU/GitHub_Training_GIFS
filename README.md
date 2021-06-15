@@ -15,8 +15,13 @@ To add to the collection:
 <img src="https://media.giphy.com/media/GIEXgLDfghUSQ/giphy.gif" width="250" />
 <img src="https://media.giphy.com/media/ChmEWOL7Vaz5u/giphy.gif" width="250" /> 
 <img src="https://media.giphy.com/media/3orifhln1wZJ7lTbyw/giphy.gif" width="250"/> 
+<img src="https://media.giphy.com/media/U2O50cAkpmTjG/giphy.gif" width="250"/> 
 
 Before doing the exercises:
 <img src="https://media.giphy.com/media/1FMaabePDEfgk/giphy.gif" width="250"/>
 After completing the exercises:
 <img src="https://media.giphy.com/media/l41m5nQVvTslsRQGc/giphy.gif" width="250"/>
+
+
+
+

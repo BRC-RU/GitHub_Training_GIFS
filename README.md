@@ -17,10 +17,11 @@ To add to the collection:
 <img src="https://media.giphy.com/media/3orifhln1wZJ7lTbyw/giphy.gif" width="250"/> 
 <img src="https://media.giphy.com/media/U2O50cAkpmTjG/giphy.gif" width="250"/> 
 
-Before doing the exercises:
-<img src="https://media.giphy.com/media/1FMaabePDEfgk/giphy.gif" width="250"/>
-After completing the exercises:
-<img src="https://media.giphy.com/media/l41m5nQVvTslsRQGc/giphy.gif" width="250"/>
+Before doing the exercises: <br /> 
+<img src="https://media.giphy.com/media/1FMaabePDEfgk/giphy.gif" width="250"/> <br /> 
+After completing the exercises:<br /> 
+<img src="https://media.giphy.com/media/l41m5nQVvTslsRQGc/giphy.gif" width="250"/><br /> 
+
 <img src="https://media.giphy.com/media/FcuiZUneg1YRAu1lH2/giphy.gif" width="250"/>
 
 
